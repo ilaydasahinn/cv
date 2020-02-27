@@ -1,7 +1,7 @@
 {
   "name": "İlayda Şahin",
   "profession": "Software Developer",
-  "summary": "",
+  "summary": "A confident, self-motivated software engineer. A deep researcher and a passionate learner in every aspect of her life, with good analytical and verbal skills.",
   "mail": "ilyda.sahin@gmail.com",
   "address": {
     "title": "Istanbul, Turkey",
@@ -12,8 +12,8 @@
     "url": "https://github.com/ilaydasahinn"
   },
   "linkedin": {
-    "title": "linkedin.com/in/smddzcy",
+    "title": "linkedin.com/in/ilaydasahinn",
     "url": "https://www.linkedin.com/in/ilaydasahinn"
   },
-  "photo": "src/photo.png"
+  "photo": "photo.png"
 }
